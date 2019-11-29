@@ -1,0 +1,119 @@
+package com.example.projetopetshop.Model;
+
+public class Usuario {
+
+    private int idCliente;
+    private String dtNascCliente;
+    private String emailCliente;
+    private String senhaCliente;
+    private String CPFCliente;
+    private String recebeNewsLetter;
+    private String telComercialCliente;
+    private String telResidencialCliente;
+    private String celularCliente;
+    private String nomeCompletoCliente;
+
+    public Usuario (){
+
+    }
+
+    public Usuario(String emailCliente, String senhaCliente) {
+        this.emailCliente = emailCliente;
+        this.senhaCliente = senhaCliente;
+
+    }
+
+    public Usuario(int idCliente, String dtNascCliente, String emailCliente, String senhaCliente, String CPFCliente, String recebeNewsLetter, String telComercialCliente, String telResidencialCliente, String celularCliente, String nomeCompletoCliente) {
+        this.idCliente = idCliente;
+        this.dtNascCliente = dtNascCliente;
+        this.emailCliente = emailCliente;
+        this.senhaCliente = senhaCliente;
+        this.CPFCliente = CPFCliente;
+        this.recebeNewsLetter = recebeNewsLetter;
+        this.telComercialCliente = telComercialCliente;
+        this.telResidencialCliente = telResidencialCliente;
+        this.celularCliente = celularCliente;
+        this.nomeCompletoCliente = nomeCompletoCliente;
+    }
+
+    public int getIdCliente() {
+        return idCliente;
+    }
+
+    public void setIdCliente(int idCliente) {
+        this.idCliente = idCliente;
+    }
+
+    public String getDtNascCliente() {
+        return dtNascCliente;
+    }
+
+    public void setDtNascCliente(String dtNascCliente) {
+        this.dtNascCliente = dtNascCliente;
+    }
+
+    public String getEmailCliente() {
+        return emailCliente;
+    }
+
+    public void setEmailCliente(String emailCliente) {
+        this.emailCliente = emailCliente;
+    }
+
+    public String getSenhaCliente() {
+        return senhaCliente;
+    }
+
+    public void setSenhaCliente(String senhaCliente) {
+        this.senhaCliente = senhaCliente;
+    }
+
+    public String getCPFCliente() {
+        return CPFCliente;
+    }
+
+    public void setCPFCliente(String CPFCliente) {
+        this.CPFCliente = CPFCliente;
+    }
+
+    public String getRecebeNewsLetter() {
+        return recebeNewsLetter;
+    }
+
+    public void setRecebeNewsLetter(String recebeNewsLetter) {
+        this.recebeNewsLetter = recebeNewsLetter;
+    }
+
+    public String getTelComercialCliente() {
+        return telComercialCliente;
+    }
+
+    public void setTelComercialCliente(String telComercialCliente) {
+        this.telComercialCliente = telComercialCliente;
+    }
+
+    public String getTelResidencialCliente() {
+        return telResidencialCliente;
+    }
+
+    public void setTelResidencialCliente(String telResidencialCliente) {
+        this.telResidencialCliente = telResidencialCliente;
+    }
+
+    public String getCelularCliente() {
+        return celularCliente;
+    }
+
+    public void setCelularCliente(String celularCliente) {
+        this.celularCliente = celularCliente;
+    }
+
+    public String getNomeCompletoCliente() {
+        return nomeCompletoCliente;
+    }
+
+    public void setNomeCompletoCliente(String nomeCompletoCliente) {
+        this.nomeCompletoCliente = nomeCompletoCliente;
+    }
+}
+
