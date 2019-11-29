@@ -6,76 +6,90 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="23"
-8-->C:\Users\elvis.bsantos\Downloads\PROJETO\ProjetoPetShop\app\src\main\AndroidManifest.xml
+8-->C:\Users\elvis.bsantos\Downloads\PI7\PROJETO\ProjetoPetShop\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="29" />
-9-->C:\Users\elvis.bsantos\Downloads\PROJETO\ProjetoPetShop\app\src\main\AndroidManifest.xml
+9-->C:\Users\elvis.bsantos\Downloads\PI7\PROJETO\ProjetoPetShop\app\src\main\AndroidManifest.xml
 10
-11    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-11-->C:\Users\elvis.bsantos\Downloads\PROJETO\ProjetoPetShop\app\src\main\AndroidManifest.xml:30:5-81
-11-->C:\Users\elvis.bsantos\Downloads\PROJETO\ProjetoPetShop\app\src\main\AndroidManifest.xml:30:22-78
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\elvis.bsantos\Downloads\PI7\PROJETO\ProjetoPetShop\app\src\main\AndroidManifest.xml:37:5-67
+11-->C:\Users\elvis.bsantos\Downloads\PI7\PROJETO\ProjetoPetShop\app\src\main\AndroidManifest.xml:37:22-64
 12    <uses-permission android:name="android.permission.INTERNET" />
-12-->C:\Users\elvis.bsantos\Downloads\PROJETO\ProjetoPetShop\app\src\main\AndroidManifest.xml:31:5-67
-12-->C:\Users\elvis.bsantos\Downloads\PROJETO\ProjetoPetShop\app\src\main\AndroidManifest.xml:31:22-64
-13    <uses-permission android:name="android.permission.INTERNET" />
-13-->C:\Users\elvis.bsantos\Downloads\PROJETO\ProjetoPetShop\app\src\main\AndroidManifest.xml:31:5-67
-13-->C:\Users\elvis.bsantos\Downloads\PROJETO\ProjetoPetShop\app\src\main\AndroidManifest.xml:31:22-64
+12-->C:\Users\elvis.bsantos\Downloads\PI7\PROJETO\ProjetoPetShop\app\src\main\AndroidManifest.xml:37:5-67
+12-->C:\Users\elvis.bsantos\Downloads\PI7\PROJETO\ProjetoPetShop\app\src\main\AndroidManifest.xml:37:22-64
+13    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+13-->C:\Users\elvis.bsantos\Downloads\PI7\PROJETO\ProjetoPetShop\app\src\main\AndroidManifest.xml:39:5-81
+13-->C:\Users\elvis.bsantos\Downloads\PI7\PROJETO\ProjetoPetShop\app\src\main\AndroidManifest.xml:39:22-78
 14    <uses-permission android:name="android.permission.INTERNET" />
-14-->C:\Users\elvis.bsantos\Downloads\PROJETO\ProjetoPetShop\app\src\main\AndroidManifest.xml:31:5-67
-14-->C:\Users\elvis.bsantos\Downloads\PROJETO\ProjetoPetShop\app\src\main\AndroidManifest.xml:31:22-64
+14-->C:\Users\elvis.bsantos\Downloads\PI7\PROJETO\ProjetoPetShop\app\src\main\AndroidManifest.xml:37:5-67
+14-->C:\Users\elvis.bsantos\Downloads\PI7\PROJETO\ProjetoPetShop\app\src\main\AndroidManifest.xml:37:22-64
 15
 16    <application
-16-->C:\Users\elvis.bsantos\Downloads\PROJETO\ProjetoPetShop\app\src\main\AndroidManifest.xml:5:5-29:19
+16-->C:\Users\elvis.bsantos\Downloads\PI7\PROJETO\ProjetoPetShop\app\src\main\AndroidManifest.xml:5:5-36:19
 17        android:allowBackup="true"
-17-->C:\Users\elvis.bsantos\Downloads\PROJETO\ProjetoPetShop\app\src\main\AndroidManifest.xml:6:9-35
+17-->C:\Users\elvis.bsantos\Downloads\PI7\PROJETO\ProjetoPetShop\app\src\main\AndroidManifest.xml:6:9-35
 18        android:allowClearUserData="true"
-18-->C:\Users\elvis.bsantos\Downloads\PROJETO\ProjetoPetShop\app\src\main\AndroidManifest.xml:7:9-42
+18-->C:\Users\elvis.bsantos\Downloads\PI7\PROJETO\ProjetoPetShop\app\src\main\AndroidManifest.xml:7:9-42
 19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 19-->[androidx.core:core:1.0.1] C:\Users\elvis.bsantos\.gradle\caches\transforms-2\files-2.1\46da25c3e2ae6308b2227b660caa604d\core-1.0.1\AndroidManifest.xml:22:18-86
 20        android:debuggable="true"
 21        android:icon="@mipmap/ic_launcher"
-21-->C:\Users\elvis.bsantos\Downloads\PROJETO\ProjetoPetShop\app\src\main\AndroidManifest.xml:8:9-43
+21-->C:\Users\elvis.bsantos\Downloads\PI7\PROJETO\ProjetoPetShop\app\src\main\AndroidManifest.xml:8:9-43
 22        android:label="@string/app_name"
-22-->C:\Users\elvis.bsantos\Downloads\PROJETO\ProjetoPetShop\app\src\main\AndroidManifest.xml:9:9-41
+22-->C:\Users\elvis.bsantos\Downloads\PI7\PROJETO\ProjetoPetShop\app\src\main\AndroidManifest.xml:9:9-41
 23        android:roundIcon="@mipmap/ic_launcher_round"
-23-->C:\Users\elvis.bsantos\Downloads\PROJETO\ProjetoPetShop\app\src\main\AndroidManifest.xml:10:9-54
+23-->C:\Users\elvis.bsantos\Downloads\PI7\PROJETO\ProjetoPetShop\app\src\main\AndroidManifest.xml:10:9-54
 24        android:supportsRtl="true"
-24-->C:\Users\elvis.bsantos\Downloads\PROJETO\ProjetoPetShop\app\src\main\AndroidManifest.xml:11:9-35
+24-->C:\Users\elvis.bsantos\Downloads\PI7\PROJETO\ProjetoPetShop\app\src\main\AndroidManifest.xml:11:9-35
 25        android:testOnly="true"
 26        android:theme="@style/AppTheme"
-26-->C:\Users\elvis.bsantos\Downloads\PROJETO\ProjetoPetShop\app\src\main\AndroidManifest.xml:12:9-40
+26-->C:\Users\elvis.bsantos\Downloads\PI7\PROJETO\ProjetoPetShop\app\src\main\AndroidManifest.xml:12:9-40
 27        android:usesCleartextTraffic="true" >
-27-->C:\Users\elvis.bsantos\Downloads\PROJETO\ProjetoPetShop\app\src\main\AndroidManifest.xml:13:9-44
-28        <activity android:name="com.example.projetopetshop.Controller.TelaProduto" >
-28-->C:\Users\elvis.bsantos\Downloads\PROJETO\ProjetoPetShop\app\src\main\AndroidManifest.xml:14:9-20:20
-28-->C:\Users\elvis.bsantos\Downloads\PROJETO\ProjetoPetShop\app\src\main\AndroidManifest.xml:14:19-57
+27-->C:\Users\elvis.bsantos\Downloads\PI7\PROJETO\ProjetoPetShop\app\src\main\AndroidManifest.xml:13:9-44
+28        <activity android:name="com.example.projetopetshop.Controller.TelaInicial" >
+28-->C:\Users\elvis.bsantos\Downloads\PI7\PROJETO\ProjetoPetShop\app\src\main\AndroidManifest.xml:14:9-20:20
+28-->C:\Users\elvis.bsantos\Downloads\PI7\PROJETO\ProjetoPetShop\app\src\main\AndroidManifest.xml:14:19-57
 29            <intent-filter>
-29-->C:\Users\elvis.bsantos\Downloads\PROJETO\ProjetoPetShop\app\src\main\AndroidManifest.xml:15:13-19:29
+29-->C:\Users\elvis.bsantos\Downloads\PI7\PROJETO\ProjetoPetShop\app\src\main\AndroidManifest.xml:15:13-19:29
 30                <action android:name="android.intent.action.MAIN" />
-30-->C:\Users\elvis.bsantos\Downloads\PROJETO\ProjetoPetShop\app\src\main\AndroidManifest.xml:16:17-69
-30-->C:\Users\elvis.bsantos\Downloads\PROJETO\ProjetoPetShop\app\src\main\AndroidManifest.xml:16:25-66
+30-->C:\Users\elvis.bsantos\Downloads\PI7\PROJETO\ProjetoPetShop\app\src\main\AndroidManifest.xml:16:17-69
+30-->C:\Users\elvis.bsantos\Downloads\PI7\PROJETO\ProjetoPetShop\app\src\main\AndroidManifest.xml:16:25-66
 31
 32                <category android:name="android.intent.category.LAUNCHER" />
-32-->C:\Users\elvis.bsantos\Downloads\PROJETO\ProjetoPetShop\app\src\main\AndroidManifest.xml:18:17-77
-32-->C:\Users\elvis.bsantos\Downloads\PROJETO\ProjetoPetShop\app\src\main\AndroidManifest.xml:18:27-74
+32-->C:\Users\elvis.bsantos\Downloads\PI7\PROJETO\ProjetoPetShop\app\src\main\AndroidManifest.xml:18:17-77
+32-->C:\Users\elvis.bsantos\Downloads\PI7\PROJETO\ProjetoPetShop\app\src\main\AndroidManifest.xml:18:27-74
 33            </intent-filter>
 34        </activity>
-35        <activity android:name="com.example.projetopetshop.Controller.TelaCadastro" />
-35-->C:\Users\elvis.bsantos\Downloads\PROJETO\ProjetoPetShop\app\src\main\AndroidManifest.xml:21:9-61
-35-->C:\Users\elvis.bsantos\Downloads\PROJETO\ProjetoPetShop\app\src\main\AndroidManifest.xml:21:19-58
-36        <activity android:name="com.example.projetopetshop.Controller.TelaLogin" >
-36-->C:\Users\elvis.bsantos\Downloads\PROJETO\ProjetoPetShop\app\src\main\AndroidManifest.xml:22:9-28:20
-36-->C:\Users\elvis.bsantos\Downloads\PROJETO\ProjetoPetShop\app\src\main\AndroidManifest.xml:22:19-55
-37            <intent-filter>
-37-->C:\Users\elvis.bsantos\Downloads\PROJETO\ProjetoPetShop\app\src\main\AndroidManifest.xml:15:13-19:29
-38                <action android:name="android.intent.action.MAIN" />
-38-->C:\Users\elvis.bsantos\Downloads\PROJETO\ProjetoPetShop\app\src\main\AndroidManifest.xml:16:17-69
-38-->C:\Users\elvis.bsantos\Downloads\PROJETO\ProjetoPetShop\app\src\main\AndroidManifest.xml:16:25-66
-39
-40                <category android:name="android.intent.category.LAUNCHER" />
-40-->C:\Users\elvis.bsantos\Downloads\PROJETO\ProjetoPetShop\app\src\main\AndroidManifest.xml:18:17-77
-40-->C:\Users\elvis.bsantos\Downloads\PROJETO\ProjetoPetShop\app\src\main\AndroidManifest.xml:18:27-74
-41            </intent-filter>
-42        </activity>
-43    </application>
-44
-45</manifest>
+35        <activity android:name="com.example.projetopetshop.Controller.TelaPesquisa" >
+35-->C:\Users\elvis.bsantos\Downloads\PI7\PROJETO\ProjetoPetShop\app\src\main\AndroidManifest.xml:21:9-27:20
+35-->C:\Users\elvis.bsantos\Downloads\PI7\PROJETO\ProjetoPetShop\app\src\main\AndroidManifest.xml:21:19-58
+36            <intent-filter>
+36-->C:\Users\elvis.bsantos\Downloads\PI7\PROJETO\ProjetoPetShop\app\src\main\AndroidManifest.xml:15:13-19:29
+37                <action android:name="android.intent.action.MAIN" />
+37-->C:\Users\elvis.bsantos\Downloads\PI7\PROJETO\ProjetoPetShop\app\src\main\AndroidManifest.xml:16:17-69
+37-->C:\Users\elvis.bsantos\Downloads\PI7\PROJETO\ProjetoPetShop\app\src\main\AndroidManifest.xml:16:25-66
+38
+39                <category android:name="android.intent.category.LAUNCHER" />
+39-->C:\Users\elvis.bsantos\Downloads\PI7\PROJETO\ProjetoPetShop\app\src\main\AndroidManifest.xml:18:17-77
+39-->C:\Users\elvis.bsantos\Downloads\PI7\PROJETO\ProjetoPetShop\app\src\main\AndroidManifest.xml:18:27-74
+40            </intent-filter>
+41        </activity>
+42        <activity android:name="com.example.projetopetshop.Controller.TelaCadastro" />
+42-->C:\Users\elvis.bsantos\Downloads\PI7\PROJETO\ProjetoPetShop\app\src\main\AndroidManifest.xml:28:9-61
+42-->C:\Users\elvis.bsantos\Downloads\PI7\PROJETO\ProjetoPetShop\app\src\main\AndroidManifest.xml:28:19-58
+43        <activity android:name="com.example.projetopetshop.Controller.TelaLogin" >
+43-->C:\Users\elvis.bsantos\Downloads\PI7\PROJETO\ProjetoPetShop\app\src\main\AndroidManifest.xml:29:9-35:20
+43-->C:\Users\elvis.bsantos\Downloads\PI7\PROJETO\ProjetoPetShop\app\src\main\AndroidManifest.xml:29:19-55
+44            <intent-filter>
+44-->C:\Users\elvis.bsantos\Downloads\PI7\PROJETO\ProjetoPetShop\app\src\main\AndroidManifest.xml:15:13-19:29
+45                <action android:name="android.intent.action.MAIN" />
+45-->C:\Users\elvis.bsantos\Downloads\PI7\PROJETO\ProjetoPetShop\app\src\main\AndroidManifest.xml:16:17-69
+45-->C:\Users\elvis.bsantos\Downloads\PI7\PROJETO\ProjetoPetShop\app\src\main\AndroidManifest.xml:16:25-66
+46
+47                <category android:name="android.intent.category.LAUNCHER" />
+47-->C:\Users\elvis.bsantos\Downloads\PI7\PROJETO\ProjetoPetShop\app\src\main\AndroidManifest.xml:18:17-77
+47-->C:\Users\elvis.bsantos\Downloads\PI7\PROJETO\ProjetoPetShop\app\src\main\AndroidManifest.xml:18:27-74
+48            </intent-filter>
+49        </activity>
+50    </application>
+51
+52</manifest>
